@@ -1,5 +1,8 @@
 # Data Scientist 
 
+### Technical Skills
+Python, PostgresSQL, AI/ML, Gen-AI, Web
+
 ### Education
 Data Science, M.tech
 
